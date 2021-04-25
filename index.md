@@ -2,7 +2,7 @@
 
 *Currently in Open Beta*
 
-<h1><a href="/about/">Downloads</a></h1>
+<h1><a href="/downloads/">Downloads</a></h1>
 
 ### Duck typing. Faster than C.
 
