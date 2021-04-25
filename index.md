@@ -2,6 +2,16 @@
 
 *Currently in Open Beta*
 
+---
+layout: post
+date: 2017-09-04 07:00
+title: Link Test
+---
+
+Testing links
+  * [Downloads](/about/)
+  * Hehhee
+
 ### Duck typing. Faster than C.
 
 ## DISCLAIMER
