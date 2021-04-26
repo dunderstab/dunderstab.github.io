@@ -116,14 +116,6 @@ The compiler is written in Python with a C++ interface (what I mean is a compile
 
 Semble is currently under the MIT license.
 
-# Special thanks
-
-Although the language was developed by me only, there have been people who helped motivate and guide me.
-
-NAN
-
-And that is just a start, many people whom do not have repl.it helped me as well.
-
 # Conclusion
 
 Semble goes to show that simplicity and speed can both be achieved at the same time.
@@ -131,9 +123,3 @@ Semble goes to show that simplicity and speed can both be achieved at the same t
 It is not as easy as something like Python, it is more like easier than/as easy as C++.
 
 To see a bigger Semble project I would suggest looking at the github and looking in the */libs/* folder as it also gives you a greater understanding of the language.
-
-I will write another post when 1.0 comes out, and ping the people whom ask to be pinged in that post.
-
-If you like the language and ideas behind it, consider upvoting the post as that will help more people see the language.
-
-Have a great day! - @Wuru
