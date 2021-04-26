@@ -120,8 +120,7 @@ Semble is currently under the MIT license.
 
 Although the language was developed by me only, there have been people who helped motivate and guide me.
 
-+ @Coder100 - Web Developer and guiding me
-+ @RickMiller - Guiding and encouraging me
+NAN
 
 And that is just a start, many people whom do not have repl.it helped me as well.
 
