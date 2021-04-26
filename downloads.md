@@ -2,14 +2,14 @@
 
 #### Disclaimer: Semble only works on Debian-based systems
 
-<h3><a download="install.sh">Download the installer.</a></h3>
+<h3><a href="install.sh" download>Download the installer.</a></h3>
 
-To install semble, first <a download="install.sh">download the installer</a> and find the directory it is in.
+To install semble, first <a href="install.sh" download>download the installer</a> and find the directory it is in.
 
 Open a terminal in that directory and type the following command:
 
 ```
-bash installer.sh
+$ bash installer.sh
 ```
 
 It will now commence an installation of SembleLang.
