@@ -48,15 +48,15 @@ I plan on adding the following features in time:
 
 ## Recursive Fibbonaci(10)
 
-![Code for it](https://imgur.com/PND6CC0)
+![Code for it](fib.png)
 
 ## Person Data Structure
 
-![Code for it](https://imgur.com/9bZgGyH)
+![Code for it](person.png)
 
 ## Vectors Example
 
-![Code for it](https://imgur.com/0sAZDAC)
+![Code for it](vector.smb)
 
 # Working with Semble
 
