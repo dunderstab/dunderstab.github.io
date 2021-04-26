@@ -2,7 +2,7 @@ title: SembleLang
 email: draxdo@gmail.com
 description: >-
   Duck typing. Faster than C.
-  <h3><a href="/downloads.html">Downloads</a></h3>
+  <h3><a href="/download/">Downloads</a></h3>
 
 #config
 theme: jekyll-theme-minimal

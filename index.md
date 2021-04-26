@@ -56,7 +56,7 @@ I plan on adding the following features in time:
 
 ## Vectors Example
 
-![Code for it](vector.smb)
+![Code for it](vector.png)
 
 # Working with Semble
 
