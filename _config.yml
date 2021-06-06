@@ -7,4 +7,4 @@ description: >-
   <h3><a href="/about.html">About</a></h3>
 
 #config
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minima
