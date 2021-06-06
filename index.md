@@ -5,3 +5,16 @@
 ### Enjoy your stay!
 
 ### - Brendan
+
+<br>
+<br>
+<br>
+<br>
+<br>
+Contact me: brendan@catchstills.com
+Website author: draxdo@gmail.com
+<br>
+<br>
+<br>
+<br>
+<br>
