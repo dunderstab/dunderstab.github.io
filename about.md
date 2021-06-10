@@ -1,8 +1,8 @@
 ## CatchStills is a high quality image service that takes photography to the next level.
 
-We have high quality photos that you cannot find anywhere else in our gallery.
+### You can view our gallery of beautiful images or contact us if needed.
 
-As we say, ":ask brendan for motto:".
+You can browse our images or, if needed, please contact us (brendan@catchstills.com).
 
 <br>
 <br>

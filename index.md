@@ -3,7 +3,9 @@
 
 ### You can view our gallery of beautiful images or contact us if needed.
 
-You can browse our images or, if needed, please contact us (brendan@catchstills.com).
+### Thanks!
+
+#### - Brendan
 
 <br>
 <br>
