@@ -2,9 +2,7 @@
 
 ### You can view our gallery of beautiful images or contact us if needed.
 
-### Enjoy your stay!
-
-### - Brendan
+You can browse our images or, if needed, please contact us (brendan@catchstills.com).
 
 <br>
 <br>
