@@ -11,8 +11,8 @@
 <br>
 <br>
 <br>
-Contact me: brendan@catchstills.com
-Website author: draxdo@gmail.com
+#### Contact me: brendan@catchstills.com
+#### Website author: draxdo@gmail.com
 <br>
 <br>
 <br>
